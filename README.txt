@@ -38,6 +38,7 @@ _________________________________
 III. Pros and cons of the Project
 
 Lets start with the bad news:
+
 CONS:
 * The project does not read a config file and putting the configurations in the beggining of the tests is BAD
 * Did not write Login test 
@@ -50,6 +51,7 @@ PROS:
 * Correct framework with pageobjects
 * The project is build with scalability in mind
 * First Java project I have ever written (I thought its worth mentioning)
+* You used Dave Haeffner's "the-internet" website as a testing and I really like this guy :)
 
 ____________
 IV. Summary:
