@@ -1,0 +1,4 @@
+capabilities: "chrome"
+platform: "WINDOWS"
+version: "46.0"
+screenResolution: "1280x1024"
